@@ -1,0 +1,22 @@
+canvas{
+    background-color: beige;
+    z-index: -1;
+}
+#num1{
+    background-color: lightgreen
+}
+#num2{
+    background-color: lightcoral
+}
+#num3{
+    background-color: lightblue
+}
+span{
+    position: absolute;
+    font-weight: bolder
+}
+#middle{
+    left: 200px;
+    top: 370px;
+    z-index: 9999
+}
